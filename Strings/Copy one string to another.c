@@ -3,7 +3,6 @@ int main()
 {
     char str1[100], str2[100];
     int i = 0;
-    printf("Enter a string: ");
     gets(str1);
     while(str1[i] != '\0')
     {
